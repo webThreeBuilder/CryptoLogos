@@ -1,6 +1,12 @@
 [
+"vet",
+"etc",
 "eth",
-"klay",
+"fsn",
+"ftm",
+"unknow",
+"vlx",
+"wan",
 "ada",
 "avax",
 "bnb",
@@ -14,6 +20,7 @@
 "ht",
 "iotx",
 "kcs",
+"klay",
 "luna",
 "matic",
 "one",
@@ -23,5 +30,5 @@
 "trx",
 "usdc",
 "usdt",
-"xrp"  
+"xrp" 
 ]
